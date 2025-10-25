@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2025-10-25T11:53:58.760Z",
-  "totalChallenges": 0,
+  "lastUpdated": "2025-10-25T11:56:27.776Z",
+  "totalChallenges": 1,
   "totalVibecoders": 0,
-  "challenges": [],
+  "challenges": [
+    {
+      "id": 3,
+      "number": 3,
+      "title": "Issue de prueba #1",
+      "description": "Descripción",
+      "state": "open",
+      "difficulty": "Medio",
+      "points": 30,
+      "tags": [
+        "JavaScript",
+        "React",
+        "CSS"
+      ],
+      "labels": [],
+      "url": "https://github.com/Damsonite/coding_with_friends/issues/3",
+      "assignee": null,
+      "example": "Crear un input de búsqueda que use un pequeño debounce. Al escribir \"SEO\" debería filtrar y mostrar solo los desafíos que contengan \"SEO\" en el título, tags o descripción.",
+      "estimatedTime": "2-4 horas",
+      "category": "challenges",
+      "createdAt": "2025-10-25T11:56:02Z",
+      "updatedAt": "2025-10-25T11:56:02Z"
+    }
+  ],
   "vibecodersChallenges": []
 }
